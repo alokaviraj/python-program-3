@@ -1,0 +1,7 @@
+t=(1,'hi',3,4)
+print(t[2:])
+print(t[0:3])
+print(t)
+print(type(t))
+t2=("HI")
+print(t(t2))
